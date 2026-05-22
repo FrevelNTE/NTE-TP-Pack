@@ -1,6 +1,6 @@
 # NTE-TP-Pack
 
-TP Pack for Common Commission and Furniture
+TP Pack for Common Commissions and Furniture
 
 ---
 
